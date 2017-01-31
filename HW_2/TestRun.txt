@@ -1,0 +1,14 @@
+Script started on Wed 20 Jan 2016 10:40:09 PM PST
+]0;chungj10@woodhouse:~/HW_2[?1034hchungj10@woodhouse 22:40:09 ~/HW_2 
+$ g++ CoinMain.cpp
+]0;chungj10@woodhouse:~/HW_2chungj10@woodhouse 22:40:19 ~/HW_2 
+$ a.[K[K./a.out
+After buying a bag of chips for 68 cents, I have Quarters: 3, Dimes: 2, Nickels: 5, Pennies: 5 left in my pocket.
+After transferring some coins from my piggyBank, I now have Quarters: 53, Dimes: 52, Nickels: 55, Pennies: 55 in my pocket
+And now I have Quarters: 0, Dimes: 0, Nickels: 0, Pennies: 0 left in my piggyBank
+I found some coins in my sofa while vacuuming. Now I have Quarters: 2, Dimes: 4, Nickels: 9, Pennies: 2 in my piggyBank!
+]0;chungj10@woodhouse:~/HW_2chungj10@woodhouse 22:40:24 ~/HW_2 
+$ exit
+exit
+
+Script done on Wed 20 Jan 2016 10:40:27 PM PST
